@@ -1,15 +1,7 @@
-remote_theme: chirpy
-lang: en
-timezone: America/Los_Angeles
+remote_theme: abhinavs/moonwalk
 plugins:
 - jekyll-remote-theme
-github:
-  username: Lord-of-Bugs
-
-social:
-  name: Muchan Li
-  email: limuchan28@gmail.com
-  links:
-    - https://github.com/Lord-of-Bugs
-
-avatar: "./shogun-ringo.jpg"
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
+  date_format: "%Y-%m-%d" # customize how date is formatted
