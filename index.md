@@ -1,4 +1,6 @@
-# Personal Information
+# DSC180A Methodology Assignment 5
+
+## Personal Information
 
 - Name: Muchan Li
 - Email: mul005@ucsd.edu
