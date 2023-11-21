@@ -1,3 +1,19 @@
 remote_theme: chirpy
+lang: en
+timezone: America/Los_Angeles
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
+github:
+  username: Lord-of-Bugs
+
+linkedin:
+  username: Muchan Li
+
+social:
+  name: Muchan Li
+  email: limuchan28@gmail.com
+  links:
+    - https://www.linkedin.com/in/muchan-li-989703227/
+    - https://github.com/Lord-of-Bugs
+
+avatar: "/shogun-ringo.jpg"
